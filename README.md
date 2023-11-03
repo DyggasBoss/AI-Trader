@@ -1,7 +1,7 @@
 # AI-Trader
 Revolutionary AI trader that predicts the behaviour of the stock market, which enables the user to make lots of money out of nothing (infinite money glitch)
 
-# Data extraction
+# Data extraction and predictions
 Our program extracts the latest evaluations of the stock market from the market-leading Polygon.io. This allows us to always stay up-to-date and make precise predictions of the stock values, which in turn enables us to make correct decisions and sell high and buy low.
 
 # Deployment
